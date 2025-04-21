@@ -21,7 +21,7 @@ An intelligent surveillance analysis tool that automatically detects and describ
 
 ## 🔧 Prerequisites
 
-* Python 3.11 or higher
+* Python 3.12 or higher
 * Web Browser
 * Moondream API key from [Moondream Console](https://console.moondream.ai) or download the model file from [here](https://docs.moondream.ai/specifications)
 
